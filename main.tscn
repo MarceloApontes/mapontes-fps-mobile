@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://osxdype2wxry"]
+
+[ext_resource type="Script" path="res://scripts/main.gd" id="1"]
+
+[node name="MAPONTES_FPS" type="Node3D"]
+script = ExtResource("1")
